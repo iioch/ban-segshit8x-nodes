@@ -53,6 +53,8 @@ The ban.ps1 powershell script is a port of the ban.sh script.  Accomplishes the 
 
 It _might_ work in Powershell 2.0, but you should really have PS 3.0 or greater.
 
+Run the ban.bat or use the powershell version.
+
 If you've never used Powershell before, you might need to enable script execution.  See the instructions here:  https://superuser.com/questions/106360/how-to-enable-execution-of-powershell-scripts
 
 ### Run the ban script
